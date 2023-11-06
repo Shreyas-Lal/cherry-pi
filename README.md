@@ -1,3 +1,11 @@
-This is an example of using MediaPipe AAR in Android Studio with Gradle.
+# An basic example of using Mediapipe AAR on Android Studio
 
-The steps to build and use MediaPipe AAR is documented in MediaPipe's [android_archive_library.md](https://github.com/google/mediapipe/blob/master/mediapipe/docs/android_archive_library.md). The source code is copied from MediaPipe's [multi-hand tracking gpu demo](https://github.com/google/mediapipe/tree/master/mediapipe/examples/android/src/java/com/google/mediapipe/apps/multihandtrackinggpu).
+* The old version of hand tracking example Medaipipe provided no longer works successfully in 2023.
+* **[Complete Setup Guide](https://hackmd.io/@iamlun/mediapipe-complete-setup-guide)**
+
+
+# References
+- [jiuquiant](https://github.com/jiuqiant/mediapipe_multi_hands_tracking_aar_example)
+- [mediapipe](https://github.com/google/mediapipe)
+
+
